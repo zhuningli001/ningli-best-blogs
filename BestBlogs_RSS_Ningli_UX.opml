@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>Ningli's UX Design Picks</title>
+  </head>
+  <body>
+    <outline text="AI UX / Agentic Interface" title="AI UX / Agentic Interface">
+      <outline type="rss" text="Lenny's Podcast" title="Lenny's Podcast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6t1O76G0jYXOAoYCm153dA"/>
+      <outline type="rss" text="AI产品黄叔" title="AI产品黄叔" xmlUrl="https://wechat2rss.bestblogs.dev/feed/1f1030491e15e5349aae42367513d6b3f70a8f8b.xml"/>
+      <outline type="rss" text="Anthropic News" title="Anthropic News" xmlUrl="https://rsshub.bestblogs.dev/anthropic/news"/>
+      <outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/news/rss.xml"/>
+      <outline type="rss" text="v0(@v0)" title="v0(@v0)" xmlUrl="https://api.xgo.ing/rss/user/dbf37973e6fc4eae91d4be9669a78fc7"/>
+      <outline type="rss" text="Latent Space" title="Latent Space" xmlUrl="https://www.latent.space/feed"/>
+      <outline type="rss" text="Simon Willison's Weblog" title="Simon Willison's Weblog" xmlUrl="https://simonwillison.net/atom/everything/"/>
+    </outline>
+    <outline text="AIGC 工具与生成式设计" title="AIGC 工具与生成式设计">
+      <outline type="rss" text="歸藏的AI工具箱" title="歸藏的AI工具箱" xmlUrl="https://wechat2rss.bestblogs.dev/feed/1c3e3571b1627d23ee9c64521a0b0a41d3fe2987.xml"/>
+      <outline type="rss" text="歸藏(guizang.ai)(@op7418)" title="歸藏(guizang.ai)(@op7418)" xmlUrl="https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"/>
+      <outline type="rss" text="Midjourney(@midjourney)" title="Midjourney(@midjourney)" xmlUrl="https://api.xgo.ing/rss/user/72dd496bfd9d44c5a5761a974630376d"/>
+      <outline type="rss" text="Recraft(@recraftai)" title="Recraft(@recraftai)" xmlUrl="https://api.xgo.ing/rss/user/acc648327c614d9b985b9fc3d737165b"/>
+      <outline type="rss" text="Nick St. Pierre(@nickfloats)" title="Nick St. Pierre(@nickfloats)" xmlUrl="https://api.xgo.ing/rss/user/6ebdf0d91eef4c149acd0ef110635866"/>
+      <outline type="rss" text="LovartAI(@lovart_ai)" title="LovartAI(@lovart_ai)" xmlUrl="https://api.xgo.ing/rss/user/db648e4d4eae4822aa0d34f0faef7ad2"/>
+      <outline type="rss" text="Runway(@runwayml)" title="Runway(@runwayml)" xmlUrl="https://api.xgo.ing/rss/user/e6bb4f612dd24db5bc1a6811e6dd5820"/>
+      <outline type="rss" text="HeyGen(@HeyGen_Official)" title="HeyGen(@HeyGen_Official)" xmlUrl="https://api.xgo.ing/rss/user/a9aff6b016c143ed8728dd86eb70d7db"/>
+    </outline>
+    <outline text="全栈设计 / 设计×开发" title="全栈设计 / 设计×开发">
+      <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="http://rss1.smashingmagazine.com/feed/"/>
+      <outline type="rss" text="leerob" title="leerob" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZMli3czZnd1uoc1ShTouQw"/>
+      <outline type="rss" text="Guillermo Rauch(@rauchg)" title="Guillermo Rauch(@rauchg)" xmlUrl="https://api.xgo.ing/rss/user/e8750659b8154dbfa0489f451e044af1"/>
+      <outline type="rss" text="Vercel News" title="Vercel News" xmlUrl="https://vercel.com/atom"/>
+      <outline type="rss" text="Figma(@figma)" title="Figma(@figma)" xmlUrl="https://api.xgo.ing/rss/user/f8a106a09a7d404fb8de7eb0c5ddd2a2"/>
+      <outline type="rss" text="Fireship" title="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"/>
+    </outline>
+    <outline text="设计系统 / 用户体验" title="设计系统 / 用户体验">
+      <outline type="rss" text="UX Magazine" title="UX Magazine" xmlUrl="https://uxmag.com/feed/"/>
+      <outline type="rss" text="优设" title="优设" xmlUrl="https://wechat2rss.bestblogs.dev/feed/8fee9d33e883a769a59a5a3e27d249cf8567b55a.xml"/>
+      <outline type="rss" text="体验进阶" title="体验进阶" xmlUrl="https://wechat2rss.bestblogs.dev/feed/083c360a74b36b2c33820a995d21cbf60c813c0a.xml"/>
+      <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom"/>
+      <outline type="rss" text="Thoughtworks洞见" title="Thoughtworks洞见" xmlUrl="https://wechat2rss.bestblogs.dev/feed/96b507f9985efa59e549e95a6363c2b6edfa8f2e.xml"/>
+    </outline>
+    <outline text="海外视野 / 科技×艺术" title="海外视野 / 科技×艺术">
+      <outline type="rss" text="a16z" title="a16z" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA"/>
+      <outline type="rss" text="Dwarkesh Patel" title="Dwarkesh Patel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXl4i9dYBrFOabk0xGmbkRA"/>
+      <outline type="rss" text="TED" title="TED" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug"/>
+      <outline type="rss" text="海外独角兽" title="海外独角兽" xmlUrl="https://wechat2rss.bestblogs.dev/feed/7200d3a5e976d231deb1e40ad33745c0e649b029.xml"/>
+      <outline type="rss" text="爱范儿" title="爱范儿" xmlUrl="http://www.ifanr.com/feed"/>
+    </outline>
+    <outline text="产品播客" title="产品播客">
+      <outline type="rss" text="三五环" title="三五环" xmlUrl="https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5e280fab418a84a0461faa3c"/>
+    </outline>
+  </body>
+</opml>
